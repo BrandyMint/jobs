@@ -22,4 +22,4 @@
 
 Опубликовано 4 февраля 2020 года. Позиция открыта до 1 июня 2020 года.
 
-![Screen Shot 2020-02-04 at 10 01 55](https://user-images.githubusercontent.com/31139/73723038-1ccb1280-4739-11ea-80e1-3340d0e3f0e6.png)
+![BPM UI example](https://user-images.githubusercontent.com/31139/73723212-92cf7980-4739-11ea-8ddb-08f2f3507ba7.png)
